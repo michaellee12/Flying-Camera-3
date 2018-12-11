@@ -5,7 +5,7 @@ tensorflow == 1.11
 scipy>=0.15.1
 ipywidgets>=7.1.0rc1
 
- ipython = 6.0
+ ipython == 6.0
 
 
     
