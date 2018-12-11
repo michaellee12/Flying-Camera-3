@@ -1,0 +1,2 @@
+model_checkpoint_path: "training_rgb_sample"
+all_model_checkpoint_paths: "training_rgb_sample"
